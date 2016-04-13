@@ -1,0 +1,11 @@
+This is a little Python script I cobbled together to generate signals
+for my oscilloscope in the recent BBS decal challenge video I made
+(https://www.youtube.com/watch?v=AnLArjNYp-U). Since I didn't find one
+ready-made out there, I figured I'd share mine. It outputs random
+different frequency sine waves on both the left and right
+channels. The original intent was to put my Tektronix 453 into XY
+mode, but for whatever reason it refused to work that way. But even
+with just the sine waves being displayed it made for a nice looking
+prop in the video!
+
+Chris Osborn <fozztexx@fozztexx.com> http://insentricity.com
